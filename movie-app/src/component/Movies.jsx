@@ -16,6 +16,7 @@ export class Movies extends Component {
         
         return (
             <>
+            <h1>Listes des films</h1>
             <h2>il y a {counter} film(s) dans la liste</h2>
         <table className="table">    
             <thead>
