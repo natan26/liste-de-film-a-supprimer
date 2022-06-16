@@ -12,9 +12,11 @@ export class Movies extends Component {
     }
 
        render() {
+        const counter = this.state.movies.length;
         
         return (
             <>
+            <h2>il y a {counter} film(s) dans la liste</h2>
         <table className="table">    
             <thead>
                 <tr>
