@@ -1,0 +1,33 @@
+tbody{
+    background-color: rgb(93, 93, 198);
+
+    
+}
+.top{
+    margin-right: 200px;
+    margin-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: rgba(45, 12, 142, 0.779);
+    font-family:Comic Sans MS;
+    font-size: 300%;
+    border: 10px solid black;
+    
+    
+}
+th{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+h2{
+    color: rgb(99, 174, 235);
+    
+
+}
+thead{
+    background-color:  rgb(99, 174, 235);
+}
+table{
+    border: 10px solid rgb(181, 0, 0);
+}
